@@ -32,6 +32,7 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 - [Resources](#resources)
   - [Tips and Tricks](#tips-and-tricks)
   - [Tutorials](#tutorials)
+  - [Books](#books)
 - [Contributing](#contributing)
 
 ## 2D
@@ -165,6 +166,7 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 
 * [Unity in Action, Third Edition](https://www.manning.com/books/unity-in-action-third-edition) - Create your first 2D, 3D, and AR/VR games with the awesome Unity game platform.
 * [Game Programming Design Patterns: With examples in C# and Unity](https://www.manning.com/books/game-programming-design-patterns) - Learn 15 essential design patterns that will save you time and improve the quality of your games.
+* [Data-Oriented Design for Games](https://www.manning.com/books/data-oriented-design-for-games) - Use Data-Oriented Design to deliver games with outstanding performance while using less time and resources.
 
 # Contributing
 Please see [CONTRIBUTING](https://github.com/RyanNielson/awesome-unity/blob/master/CONTRIBUTING.md) for details.
